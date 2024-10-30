@@ -31,4 +31,7 @@ public class LogginLabTest {
             }
         }
     }
+    public void thresholdReached(){
+        
+    }
 }
